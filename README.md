@@ -2,6 +2,8 @@
 
 > **Listen. Look. Discover.**
 
+🌿 **Live Application:** [wildwhisper-ai.vercel.app](https://wildwhisper-ai.vercel.app/)
+
 WildWhisper is an offline-first AI nature companion that helps users identify birds and nature, then encourages them to physically explore the outdoors. Built for the **Touch Grass** hackathon theme.
 
 The core philosophy of WildWhisper AI is: **AI should reduce screen time, not increase it.**
@@ -48,7 +50,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 To use the live Gemini AI for real-time identification:
 1. Go to the **Profile/Settings** tab in the app.
 2. Paste your free Google Gemini API Key.
-3. The app will immediately switch to **Gemini Live** mode. (Keys are stored locally in your browser and never sent to our servers).
+3. The app will immediately switch to **Gemini Live** mode. (Keys are stored locally in your browser via IndexedDB and never sent to our servers).
+
+## 🏆 Hackathon Submission
+
+This project was built for the [Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass](https://dev.to/challenges/hacktoberfest-week1-2026-10-05). 
+Targeting the **Google AI** prize category for deep multi-modal integration of the Gemini 1.5 Flash model!
 
 ---
 *Built with ❤️ for the Touch Grass Hackathon.*
