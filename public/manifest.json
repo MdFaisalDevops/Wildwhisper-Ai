@@ -1,0 +1,16 @@
+{
+  "name": "WildWhisper AI",
+  "short_name": "WildWhisper",
+  "description": "An offline AI nature companion that helps you explore the world beyond your screen.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
